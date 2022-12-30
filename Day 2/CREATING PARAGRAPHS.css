@@ -1,0 +1,27 @@
+p.seperated {
+    margin-bottom: .75ems;
+}
+/* Rewrite this code without specifying all the margins.
+margin: 0 0 0 .5em; */
+
+p {
+    margin-left: .5em;
+}
+
+/* Specifying margins for all four sides in a single statement, give h4 headings equal left and right margins of .25 ems. Specify top and bottom margins of 0. */
+h4 {
+    margin: 0 .25ems 0 .25ems;
+}
+
+/* 9. For paragraphs, specify equal top and bottom margins of .5 ems without specifying margins for left and right. */
+p {
+    margin: .5ems 0 .5ems 0;
+}
+/* or */
+
+p {
+  margin-top: .5em;
+  margin-bottom: .5em;
+}
+
+
