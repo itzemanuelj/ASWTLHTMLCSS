@@ -1,5 +1,20 @@
 p {
-    margin-top: .5em;
-    margin-bottom: .5em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 
+/* 10. In a single statement specify all four margins for a class of paragraph. The bottom margin is .25 ems. The other margins are twice that size. Make up the name. */
+p {
+  margin: 0 0 25ems 0;
+}
+
+/* Give paragraphs a bottom margin that separates them by .75 ems and have a first-line indent of the same size. Don't specify any other margins. */
+p {
+  margin-bottom: 0.75ems;
+  text-indent: 0.75em;
+}
+/* Style a class of headings (your choice of size) that have equal left and right margins of 1 em and are 120% of the "normal" size. Specify the margins in a single statement. Make up the name. */
+header {
+  margin: 1ems 0 1ems 0;
+  font-size: 1.2em;
+}
