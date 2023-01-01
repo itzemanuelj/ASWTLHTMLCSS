@@ -1,0 +1,55 @@
+/* 2. Replace one of the zeros to specify 2 ems of padding at the bottom.
+padding: 0 0 2 0; */
+
+p {
+  padding-bottom: 2em;
+}
+
+/* 4. What is the most concise way to specify 1 em of padding for all four sides? */
+
+p {
+  padding: 1em;
+}
+
+p.boxed {
+  padding: 2em;
+  border: 2px solid teal;
+}
+
+/* Style all paragraphs with 1.5ems of padding on the left. */
+
+p {
+  padding-left: 1.5em;
+}
+
+/* Create a class of h5 heading named "spacious" that specifies 2 ems of padding all around. Do it the most concise way. */
+
+h5.spacious {
+  padding: 2em;
+}
+
+/* 8. Create a class of paragraphs named "separated" that specifies 3 ems of padding on the bottom. Don't specify padding for any of the other sides. */
+
+p.separted {
+  padding: 0em 0em 3em 0em;
+}
+
+/* 9. Rewrite this code to create the same specification without specifying the 0-padding sides.
+padding: 0 0 0 1em; */
+
+p {
+  padding-right: 1em;
+}
+
+/* 10. In a single statement specify 1 em padding for top and bottom, 2 em padding for left and right */
+
+p {
+  padding: 1em 2em 1em 2em;
+}
+
+/* 11. Create a class not tied to an element that has a solid border all around and 1 em of padding on the left, top, and right. Choose your own border width and color name (not a hex number). Make up a class name */
+
+p.main {
+  padding: 1em 1em 0 1em;
+  border: 1px solid blue;
+}
