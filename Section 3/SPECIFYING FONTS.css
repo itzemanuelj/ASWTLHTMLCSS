@@ -1,0 +1,62 @@
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* 3. Type the first four characters of CSS code that specifies styling for the smallest heading. */
+
+h3 {
+  font-family: "Helvetica Neue", Helvetica, A;
+}
+
+/* 3. Type the first four characters of CSS code that specifies styling for the smallest heading. */
+
+/* 4. Fill in the blank. */
+
+p {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+p {
+  font-family: serif;
+}
+
+/* Style paragraphs. The font stack is Verdana, Geneva, sans-serif. */
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Style the largest heading. The font stack is Arial, Helvetica, sans-serif. */
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* 8. Write the second line of styling code that specifies Tahoma, Geneva, and sans-serif as the font stack. Don't bother to indent. */
+
+p {
+  font-family: tahoma, Geneva, sans-serif;
+}
+
+p.paragraph {
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* 10. Write all three lines of styling code for the second-largest heading that specify Verdana, Geneva, and sans-serif as the font stack. */
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* 11. Write all three lines of styling code for a heading of your choice that specify Arial, Helvetica, and sans-serif as the font stack. */
+
+a {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* 12. If the first font in a font stack is Times, what is the last font in the stack, typically? */
+
+a {
+  font-family: "Times New Roman", Times, serif;
+}
