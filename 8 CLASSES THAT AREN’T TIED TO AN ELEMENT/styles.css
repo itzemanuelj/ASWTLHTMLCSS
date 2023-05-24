@@ -1,0 +1,45 @@
+/* CLASSES THAT AREN’T TIED TO AN ELEMENT */
+
+p,
+h2.special {
+  color: red;
+}
+
+/* 3. If the following code is in the CSS file, what is the "normal" size for paragraphs, compared with the browser's default size? Express it as a %.
+p {
+  font-size: 1.5em;
+} */
+
+p {
+  font-size: 150%;
+}
+.minimized {
+  font-size: 75em;
+}
+
+h4.big {
+  color: red;
+}
+
+/* Create a class not tied to an element that halves the "normal" size. The class name is "tiny" */
+.tiny {
+  font-size: 0.5em;
+}
+
+.random {
+  color: green;
+}
+
+p.new-font {
+  color: goldenrod;
+}
+
+/* 11. Define a class that isn't tied to an element. Give it the class name of your choice and a font-size of your choice. */
+.font-size {
+  font-style: italic;
+}
+
+p.bigger {
+  font-size: 1.5em;
+  font-family: serif;
+}
