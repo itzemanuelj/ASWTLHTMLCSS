@@ -1,0 +1,32 @@
+/* CSS CLASSES */
+h2.className {
+  color: red;
+}
+
+p.promident {
+  font-size: 1.75em;
+}
+
+h4.modest {
+  font-family: serif;
+}
+
+h2.className {
+  font-size: 2em;
+}
+
+h2.special {
+  font-size: 2em;
+}
+
+h2.georgia {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h3.random {
+  color: #000000;
+}
+
+p.classname {
+  color: red;
+}
