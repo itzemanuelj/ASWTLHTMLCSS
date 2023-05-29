@@ -1,0 +1,18 @@
+/* FONT-STYLE */
+.special {
+  font-style: italic;
+}
+h3.welcome {
+  font-style: italic;
+}
+
+/* Create a class not tied to an element, named "special," that specifies italic. */
+.special {
+  font-style: italic;
+}
+
+/* 8. Create a class that isn't tied to an element. Choose a name. Make it italic. */
+
+.em {
+  font-style: italic;
+}
