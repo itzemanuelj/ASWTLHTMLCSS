@@ -1,0 +1,43 @@
+/* FONT-WEIGHT */
+/* 1. What is the CSS term for specifying whether text is bold? */
+p {
+  font-weight: bold;
+}
+
+p {
+  font-weight: normal;
+}
+
+p {
+  font-weight: 100;
+}
+
+p.normal {
+  font-weight: normal;
+}
+
+p.lightest {
+  font-weight: 100;
+}
+
+p.kinda_bold {
+  font-weight: 300;
+}
+
+h2.header1 {
+  font-weight: bold;
+}
+
+/* 10. Create a class that isn't tied to an element. Name it whatever you like. Give it normal font-weight. Use a number or a word. */
+
+a {
+  font-weight: normal;
+}
+
+a.no_name {
+  font-weight: 400;
+}
+
+h3.lorem {
+  font-weight: 200;
+}
