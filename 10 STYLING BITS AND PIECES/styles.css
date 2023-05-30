@@ -1,0 +1,24 @@
+/* STYLING BITS AND PIECES */
+
+/* 1. What are the first 5 characters of the tag that styles part of a paragraph or heading? */
+
+p h2 {
+    font-style: italic;
+}
+
+/* Create a class named "stressed" that maximally bolds a section of text. Use a word, not a number, to specify how bold. */
+
+p.stressed {
+    font-style: italic;
+}
+
+p.special {
+    font-style: italic;
+}
+
+h2.large {
+    font-style: italic;
+}
+
+span.large {
+    font-style: italic;
