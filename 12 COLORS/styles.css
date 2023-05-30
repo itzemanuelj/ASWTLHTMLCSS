@@ -1,0 +1,57 @@
+/* 1. Fill in the blank. _____ #cc00cc; */
+
+p {
+  color: #cc00cc;
+}
+
+/* 2. When the color specification begins with #, how many more characters does it take to define the color? Answer with a numeral. */
+
+/* 3. Specifying the color of a stop signal, write the second line of a class definition, that is, the line that specifies text color. */
+
+.stop-sign {
+  color: red;
+}
+
+/* 4. Rewrite the following code so it's correct.
+  color: 0000ff; */
+
+p {
+  color: #0000ff;
+}
+
+.standout {
+  color: #ff0000;
+}
+
+/* Create a class not tied to an element named "subdued" that colors text brown. */
+
+.subdued {
+  color: brown;
+}
+
+/* Create a class of paragraphs named "bright" that colors text #8b008b. */
+p.bright {
+  color: #8b008b;
+}
+
+p {
+  color: cadetblue;
+}
+
+/* 8. Create a class that isn't tied to an element that specifies any color you like. Create the color specification by using any combination of numbers 0 through 9 and a through f. Don't worry about what the actual color is. Make up the class name. */
+
+p.color {
+  color: #8b008b;
+}
+
+/* 10. Write a paragraph including opening and closing tags and some text, assigning it the class "full_color". */
+
+p.full_color {
+  color: #070750;
+}
+
+/* 12. A class has been created specifying red text. Code a paragraph of more than 1 word that includes the word "red" and colors that word (and only that word) red. The class name is "shocking" */
+
+p.shocking {
+  color: red;
+}
