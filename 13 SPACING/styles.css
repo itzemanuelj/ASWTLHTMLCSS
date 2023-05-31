@@ -1,0 +1,62 @@
+p {
+  letter-spacing: normal;
+}
+
+p {
+  word-spacing: normal;
+}
+
+/* 3. What unit of measurement do you use for spacing? (Answer with a plural.) */
+
+p {
+  word-spacing: 1em;
+}
+
+/* 4. What is the word for increasing or decreasing white space between lines? */
+
+p {
+  line-height: 1em;
+}
+h2.airy {
+  word-spacing: 0.1ems;
+}
+
+/* Style all paragraphs with default word spacing. */
+
+p {
+  word-spacing: normal;
+}
+
+/* Create a class of h3 headings named "tight" that decreases word-spacing .2 ems. */
+
+h3.tight {
+  word-spacing: -0.2em;
+}
+
+p.class {
+  word-spacing: normal;
+}
+
+/* 9. Create a class of heading (your choice of size) that tightens word-spacing by any amount you choose. Make up the name. */
+
+h2 {
+  word-spacing: -0.1em;
+}
+
+/* 10. Style all headings of a particular size (your choice of size) with default letter-spacing. */
+
+h3 {
+  word-spacing: 0;
+}
+
+/* 11. Style all headings of a particular size (your choice of size) with default space between lines. */
+
+h4 {
+  line-height: 1.2em;
+}
+
+/* 12. Style all paragraphs with roughly 1-1/2 spaces between lines. */
+
+p {
+  line-height: 1.8em;
+}
